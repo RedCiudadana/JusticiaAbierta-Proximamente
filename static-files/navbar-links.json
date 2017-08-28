@@ -1,15 +1,19 @@
 [
   {
-    "route": "perfiles",
-    "title": "Candidatos"
+    "route": "institucion",
+    "title": "Congreso"
   },
   {
-    "route": "comision",
-    "title": "Comision DH"
+    "route": "perfiles",
+    "title": "Diputados"
   },
   {
     "route": "resultados",
-    "title": "Tabla de Gradación"
+    "title": "Comisiones"
+  },
+  {
+    "route": "partidos",
+    "title": "Bloques Legislativos"
   },
   {
     "route": "metodologia",
