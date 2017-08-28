@@ -1,2 +1,0 @@
-# DipudatosBeta
-Dipudatos

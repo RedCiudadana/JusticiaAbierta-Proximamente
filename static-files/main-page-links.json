@@ -1,20 +1,20 @@
 [
   {
-    "route": "institucion",
-    "title": "Sedes de Votación",
-    "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/donde_voto.jpg"
-  },
-  {
     "route": "perfiles",
-    "title": "Frente a Frente",
+    "title": "Elección Procurador Derechos Humanos",
     "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/frente_a_frente.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/candidatos.jpg"
   },
   {
-    "route": "propuestas",
-    "title": "Justicia Abierta",
+    "route": "comision",
+    "title": "Comisión de Derechos Humanos del Congreso de Guatemala",
     "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/cuestionario.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/comision.jpg"
+  },
+  {
+    "route": "",
+    "title": "Justicia Abierta",
+    "link": "http://www.justicia-abierta.org/",
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/justicia.jpg"
   }
 ]
